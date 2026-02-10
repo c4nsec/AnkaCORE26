@@ -1,9 +1,3 @@
-Süper bir noktadasın 👌 Şimdi bunu **öğrenciye direkt verilebilecek ödev dokümanı** formatına sokalım.
-
-Aşağıdaki metni olduğu gibi paylaşabilirsin ⬇️
-
----
-
 # 🎓 Java Proje Ödevi
 
 ## 📌 Konu: Konsol Tabanlı Öğrenci Not Yönetim Sistemi
@@ -161,40 +155,14 @@ Program bir döngü içinde çalışmalıdır.
 
 ---
 
-## ⭐ Ekstra Puan Görevleri
-
-Bunları yapan öğrenciler ek puan alacaktır:
-
-* Öğrenci arama sistemi
-* Not güncelleme özelliği
-* En düşük notu bulan metot
-* Harf notu üretme (AA, BB, CC...)
-* Çok boyutlu dizi ile sınıf not tablosu
-
----
-
 ## 📋 Teslim Şartları
 
 * Kodlar paket yapısına uygun olmalı
 * Her sınıf ayrı dosyada olmalı
 * Kod içinde açıklama satırları bulunmalı
 * Program hatasız çalışmalı
-* En az 10 öğrenci test verisi girilmiş olmalı
-
----
-
-## 🧪 Değerlendirme
-
-| Kriter           | Puan |
-| ---------------- | ---- |
-| OOP kullanımı    | 20   |
-| Metot tasarımı   | 15   |
-| Kontrol yapıları | 15   |
-| Diziler          | 15   |
-| Kod düzeni       | 10   |
-| Menü sistemi     | 10   |
-| Ek özellikler    | 15   |
 
 ---
 
 💡 **Amaç sadece çalışan kod değil; doğru yapı, doğru tasarım ve konuları doğru kullanmandır.**
+
